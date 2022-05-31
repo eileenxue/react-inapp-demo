@@ -5,9 +5,10 @@ function App() {
   return (
     <div className="App">
       <header>
-       <h1>Detecting Browser &amp; Device Types</h1>
+       <h1>What are you on? 📱 💻 </h1>
       </header>
       <DetectInApp/>
+      <hr/>
     </div>
   );
 }
