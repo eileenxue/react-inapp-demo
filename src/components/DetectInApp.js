@@ -7,6 +7,7 @@ function DetectInApp() {
     return (
       <div>
         <h2>Detect InApp Library</h2>
+        {/* https://www.npmjs.com/package/detect-inapp */}
         <ul>
           <li><b>User Agent:</b> {inapp.ua}</li>
           <li><b>Browser Type:</b> {inapp.browser}</li>
